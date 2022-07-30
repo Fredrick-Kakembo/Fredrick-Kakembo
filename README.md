@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Fredrick's github stats](https://github-readme-stats.vercel.app/api?username=Fredrick-Kakembo&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Fredrick's github stats](https://github-readme-stats.vercel.app/api?username=Fredrick-Kakembo&count_private=true&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
